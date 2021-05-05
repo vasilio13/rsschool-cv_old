@@ -13,5 +13,3 @@
 ##Education: Android Developer 2020 IT-Academy International House 2019 (ESL) Java Developer 2019 IT-College Digital Unicorn Bachelor of Sciense in Information Technologies and Management Automated Information Processing Systems, Belarusian State University of Informatics and Radioelectronics, Minsk,Belarus 2010
 
 ##English: Intermediate
-
-##end!##
